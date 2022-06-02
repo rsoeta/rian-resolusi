@@ -3,5 +3,7 @@ RENCANA KONTEN
 - DTKS
   * Usulan
     ^ fokus keluarga baru
+    ^ menghindari duplikasi
+    ^ usulan keluarga sama dibulan selanjutnya diperbolehkan
 - CEK PENDAFTARAN
 - API DATABASE PENDUDUK
