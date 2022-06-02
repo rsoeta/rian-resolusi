@@ -3,4 +3,5 @@ RENCANA KONTEN
 - DTKS
   * Usulan
 - CEK PENDAFTARAN
+  * Masyarakat dapat cek Pendaftaran di Operator
 - API DATABASE PENDUDUK
