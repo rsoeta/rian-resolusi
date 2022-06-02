@@ -2,8 +2,8 @@ RENCANA KONTEN
 
 - DTKS
   * Usulan
+    ^ fokus keluarga baru
     ^ menghindari duplikasi
     ^ usulan keluarga sama dibulan selanjutnya diperbolehkan
 - CEK PENDAFTARAN
-  * Masyarakat dapat cek Pendaftaran di Operator
 - API DATABASE PENDUDUK
